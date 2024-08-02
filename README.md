@@ -24,7 +24,7 @@ I'm a passionate web developer with experience in **HTML, CSS and JavaScript**. 
 
 ### ShoePlug-An e-commerce website(project_1_link)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot](file:///C:/Users/LAMECK%20OMENDA/Pictures/Screenshots/Screenshot%20(16).png)
 
 **ShoePlug-An e-commerce website** is a **shoe selling website** built with **HTML, CSS and JavaScript**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
